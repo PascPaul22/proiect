@@ -9,3 +9,6 @@ Mutarea primelor n-1 discuri este corectă, deoarece existența discurilor de di
 În cazul limită n=1, avem doar o mutare a discului din vârful turnului p spre q, adică problema se rezolvă direct. Putem spune, așadar, că avem o descompunere în trei probleme a problemei mari.
 
 ![image](https://user-images.githubusercontent.com/115886636/207129852-3ccaa749-8aaa-4455-aa74-57dc0bca1f86.png)
+
+![image](https://user-images.githubusercontent.com/115886636/207130847-d0435463-47d0-4f7e-965c-049b6cd739cf.png)
+
